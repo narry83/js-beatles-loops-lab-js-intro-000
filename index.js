@@ -34,6 +34,7 @@ function johnLennonFacts(facts){
 
 function iLoveTheBeatles (number){
   var beatles=[]
+<<<<<<< HEAD
   var i=0
       do {
         beatles[i]="I love the Beatles!"
